@@ -1,0 +1,10 @@
+﻿  CppBitConverter.cpp
+C:\Users\OmidHome\Documents\GitHub\CppBitConverter\CppBitConverter.cpp(10,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\OmidHome\Documents\GitHub\CppBitConverter\CppBitConverter.cpp(253,26): warning C4244: 'return': conversion from 'T' to 'long', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+  CppBitConverter_Tests.cpp
+  Generating Code...
+  CppBitConverterProj.vcxproj -> C:\Users\OmidHome\Documents\GitHub\CppBitConverter\x64\Debug\CppBitConverterProj.exe
